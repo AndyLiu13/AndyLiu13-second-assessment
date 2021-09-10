@@ -1,0 +1,43 @@
+body{
+    background-color: grey;
+}
+
+#heading1{
+    text-align: center;
+    border:black solid 1px;
+}
+
+h2{
+    color: blueviolet;
+    font-size: 30px;
+}
+
+#linkcolor{
+    color: red;
+}
+
+#h2{
+    color: blueviolet;
+}
+
+#emailtag{
+    border:blue solid 5px;
+}
+
+#passwordtag{
+    border: blue solid 5px;
+}
+
+#submitbutton{
+    border: blue solid 5px;
+}
+
+#text{
+    width: 50%;
+    height: 800px;
+    border: grey 5px solid;
+}
+
+body{
+    font-family: 'Aldrich', sans-serif;
+}
